@@ -3,3 +3,12 @@ git --global user.name "git id name"
 
 git init
 git clone [url]
+
+note: clone folder path 
+
+git add .
+
+git commit -m "MSG"
+
+git push
+
