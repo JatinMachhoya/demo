@@ -1,0 +1,5 @@
+git --global user.email "email id"
+git --global user.name "git id name"
+
+git init
+git clone [url]
